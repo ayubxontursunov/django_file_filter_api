@@ -1,0 +1,26 @@
+https://en.wikipedia.org/wiki/Main_Page
+
+https://www-geeksforgeeks-org.translate.goog/reading-writing-text-files-python/?_x_tr_sl=en&_x_tr_tl=uz&_x_tr_hl=uz&_x_tr_pto=sc
+
+Appending To a File in Python
+In this example, a file named “myfile.txt” is initially opened in write mode ( "w" ) to write lines of text. The file is then reopened in append mode ( "a" ), and “Today” is added to the existing content. The output after appending is displayed using readlines . Subsequently, the file is reopened in write mode, overwriting the content with “Tomorrow”. The final output after writing is displayed using readlines .
+
+
+The New Popular Front wins the most seats in the National Assembly in the French legislative election but does not achieve a majority.
+The Labour Party wins the United Kingdom general election and Keir Starmer (pictured) becomes prime minister.
+Hurricane Beryl, the earliest-recorded Category 5 Atlantic hurricane in a calendar year, leaves at least 15 people dead in the Caribbean, Venezuela, and the United States.
+In the Netherlands, a new cabinet is sworn in, with Dick Schoof serving as the prime minister.
+Ongoing: Israel–Hamas war timelineRussian invasion of Ukraine timelineSudanese civil war timeline
+Recent deaths: Jane McAleveyRick CluffMartti WallénAudrey FlackIsmail KadareHugh Aldons
+Nominate an article
+On this day
+July 9
+
+Wolfgang and Maria Anna Mozart
+Wolfgang and Maria Anna Mozarthttps://www.youtube.com/1763 – The Mozart family grand tour began, presenting child prodigies Maria Anna and Wolfgang (both pictured) in Western Europe.
+1877 – The inaugural Wimbledon Championship, the world's oldest tennis tournament, began in London.
+1896 – Politician William Jennings Bryan made his Cross of Gold speech advocating bimetallism, considered one of the greatest political speeches in American history.
+1958 – An earthquake str
+
+https://openai.com/index/chatgpt/
+
