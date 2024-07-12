@@ -24,6 +24,7 @@ FileFilter API is a Django REST framework-based application designed to handle f
 
     ```bash
     git clone https://github.com/ayubxontursunov/django_file_filter_api.git
+    cd django_file_filter_api
     ```
 
 2. **Create and activate a virtual environment:**
