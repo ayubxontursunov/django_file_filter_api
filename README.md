@@ -1,7 +1,7 @@
 # FileFilter API
 
 
-![Django REST framework Logo](https://www.django-rest-framework.org/img/logo.png)
+![Django REST framework Logo](https://www.django-rest-framework.org/img/logo-dark.png)
 
 FileFilter API is a Django REST framework-based application designed to handle file uploads and filtering file links to another file called `filter.txt`.
 
